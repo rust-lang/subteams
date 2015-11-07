@@ -1,0 +1,7 @@
+# Community Team Report 11-07
+
+A few recent events in community worK:
+
+* There's a new meetup in Barcelona! http://www.meetup.com/Rust-Barcelona/
+* A new IRC channel was created, #rust-beginners. While #rust is happy to answer beginner questions, not everyone knows that, and so a beginner-focused channel is helpful.
+* "Glacier" is a community project to track ICEs. In the past few weeks, 143 of 200 ICEs are now being tracked! More here: https://github.com/rust-lang/rust/issues/29249
